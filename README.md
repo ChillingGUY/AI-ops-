@@ -2,7 +2,7 @@
 
 > 面向中国市场的智能运维平台，支持 7x24 监控、AI 告警分类、自动化处置，可接入大模型增强分析。
 
-## Git 项目描述（创建仓库时可使用）
+## Git 项目描述
 
 ```
 AIOps 智能运维平台 | 7x24 监控 · AI 告警分类 · 自动化处置
@@ -83,3 +83,4 @@ pytest -q
 - `docs/api.md`：上报/查询 API 规格
 - `docs/agent-install.md`：Agent 安装与上报示例
 - `docs/ops-runbook.md`：部署、巡检、告警、故障处理
+
